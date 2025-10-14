@@ -51,7 +51,7 @@ A dataset of topographic correction coefficients for shortwave downward radiatio
 <li>
 <b>Xian, Y.</b>, Wang, T.*, Cheng, W., Letu, H., Du, Y., & Leng, W. (2023).  
 A Uniform Model for Correcting Shortwave Downward Radiation Over Rugged Terrain at Various Scales. 
-<em>IEEE Transactions on Geoscience and Remote Sensing , 61, 1–12. 
+<em>IEEE Transactions on Geoscience and Remote Sensing<em>, 61, 1–12. 
 <a href="https://doi.org/10.1109/TGRS.2023.3278081">https://doi.org/10.1109/TGRS.2023.3278081</a>
 </li>
 
