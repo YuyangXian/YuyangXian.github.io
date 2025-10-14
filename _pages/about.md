@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "关于我"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,50 +8,104 @@ redirect_from:
 ---
 
 我是中山大学遥感科学与技术学院博士生，我的研究方向为山区辐射遥感建模与反演，导师是王天星教授。
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## 研究方向
+- 地表短波辐射反演与地形校正  
+- 卫星遥感下的地表辐射能量收支  
+- 复杂山区太阳辐射估算与时空尺度转换 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## 教育经历
+| 时间 | 学校 | 学位 | 专业方向 |
+|------|------|------|-----------|
+| 2021 – 至今 | 中山大学 | 遥感科学与技术学院 | 硕博连读 | 地图学与地理信息系统 |
+| 2017 – 2021 | 华南师范大学 | 地理科学学院 | 学士 | 地理信息科学 |
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## 学术论文
+<ol>
+<li>
+<b>Xian, Y.</b>, Wang, T.*, Du, Y., Yu, P., & Letu, H. (2025).  
+A strategy to estimate daily shortwave downward radiation in rugged regions from a few satellite observations.
+<em>GIScience and Remote Sensing, 62(1).</em>  
+<a href="https://doi.org/10.1080/15481603.2025.2557700">https://doi.org/10.1080/15481603.2025.2557700</a>
+</li>
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+<li>
+<b>Xian, Y.</b>, Wang, T.*, Leng, W., Letu, H., Shi, J., Wang, G., et al. (2024).  
+Can Topographic Effects on Solar Radiation Be Ignored: Evidence From the Tibetan Plateau. 
+<em>Geophysical Research Letters, 51(6), e2024GL108653.</em>  
+<a href="https://doi.org/10.1029/2024GL108653">https://doi.org/10.1029/2024GL108653</a>
+</li>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<li>
+<b>Xian, Y.</b>, Wang, T.*, Yu, P., & Du, Y. (2024).  
+To Ignore or Not: Understanding the Influence of Hillshade. 
+<em>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 17, 9009–9017.</em>  
+<a href="https://doi.org/10.1109/JSTARS.2024.3389829">https://doi.org/10.1109/JSTARS.2024.3389829</a>
+</li>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<li>
+<b>Xian, Y.</b>, Wang, T.*, Du, Y., Letu, H., Qi, J., & Li, D. (2024).  
+A dataset of topographic correction coefficients for shortwave downward radiation over the Pan-Third Pole.  
+<em>Scientific Data, 11(1), 779.</em>  
+<a href="https://doi.org/10.1038/s41597-024-03616-2">https://doi.org/10.1038/s41597-024-03616-2</a>
+</li>
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<li>
+<b>Xian, Y.</b>, Wang, T.*, Cheng, W., Letu, H., Du, Y., & Leng, W. (2023).  
+A Uniform Model for Correcting Shortwave Downward Radiation Over Rugged Terrain at Various Scales. 
+<em>IEEE Transactions on Geoscience and Remote Sensing, 61, 1–12.</em>  
+<a href="https://doi.org/10.1109/TGRS.2023.3278081">https://doi.org/10.1109/TGRS.2023.3278081</a>
+</li>
 
-**Markdown generator**
+<li>
+<b>Xian, Y.</b>, Liu, G.*, & Zhong, L. (2022).  
+Will citrus geographical indications face different climate change challenges in China? 
+<em>Journal of Cleaner Production, 356, 131885.</em>  
+<a href="https://doi.org/10.1016/j.jclepro.2022.131885">https://doi.org/10.1016/j.jclepro.2022.131885</a>
+</li>
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+<li>
+<b>Xian, Y.</b>, Lu, Y., & Liu, G.* (2022).  
+Is climate change threatening or beneficial to the habitat distribution of global pangolin species? Evidence from species distribution modeling.
+<em>Science of The Total Environment, 811, 151385.</em>  
+<a href="https://doi.org/10.1016/j.scitotenv.2021.151385">https://doi.org/10.1016/j.scitotenv.2021.151385</a>
+</li>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<li>
+<b>Xian, Y.</b>, Liu, G.*, & Yao, H. (2022).  
+Predicting the current and future distributions of major food crop designated geographical indications (GIs) in China under climate change.  
+<em>Geocarto International, 37(25), 8148–8171.</em>  
+<a href="https://doi.org/10.1080/10106049.2021.1993352">https://doi.org/10.1080/10106049.2021.1993352</a>
+</li>
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+<li>
+<b>Xian, Y.</b>, Lu, Y., Musyimi, Z., & Liu, G.* (2021).  
+Tracking the Role of Policies and Economic Factors in Driving the Forest Change Trajectories within the Guangdong-Hongkong-Macao Region of China: A Remote Sensing Perspective. 
+<em>Land, 10(1).</em>  
+<a href="https://doi.org/10.3390/land10010087">https://doi.org/10.3390/land10010087</a>
+</li>
+</ol>
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## 科研项目
+1. 国家自然科学基金青年学生基础研究项目（博士研究生）：多时空尺度山区地表辐射遥感反演及其地形强迫研究，2025.01-2027.12，在研，主持
+2. 中国科协青年人才托举工程博士生专项计划，2025.01-2026.12，在研，主持
+
+## 获奖荣誉
+1. 国家奖学金（博士研究生），2024
+2. 中山大学博士研究生校长奖学金，2024
+3. 第九届 CNISDE-数字山地学术会议 优秀研究生报告，2024
+4. 第七届 全国定量遥感学术论坛 分论坛优秀口头报告，2025
+5. 中山大学优秀共产党员，2025
+
+## 数据共享
+<ol>
+<li>
+青藏高原考虑地形效应的日均短波下行辐射数据集（2016-2018）.
+<a href="https://doi.org/10.11888/Atmos.tpdc.302937">https://doi.org/10.11888/Atmos.tpdc.302937</a>
+</li>
+
+<li>
+泛第三极短波下行辐射多空间尺度地形校正系数数据集.
+<a href="https://doi.org/10.11888/Atmos.tpdc.300784">https://doi.org/10.11888/Atmos.tpdc.300784</a>
+</li>
+</ol>
