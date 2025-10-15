@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-#  - title: "LessRad数据集"
-#    url: /LessRad/
+  - title: "LessRad数据集"
+    url: /LessRad/
     
   - title: "publications"
     url: /publications/
