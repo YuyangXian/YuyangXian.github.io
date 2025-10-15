@@ -20,8 +20,41 @@ LessRad系列数据集目前在国家青藏高原科学数据中心公开共享�
 
 LessRad系列数据集目前在国家青藏高原科学数据中心公开共享。
 
-> 🔗 下载地址（即将上线）  
-> [https://zenodo.org/record/LessRad](#)
+
+> 🔗 LessRad SWDR
+> 青藏高原考虑地形效应的日均短波下行辐射数据集（2016-2018）
+>
+> [https://doi.org/10.11888/Atmos.tpdc.302937](#)
+>
+> 
+> 🔗 LessRad OLR
+> 用于气候监测的高分辨率（0.05°，每小时）MODIS出射长波辐射数据集
+> 
+> [https://doi.org/10.11888/Atmos.tpdc.301403](#)
+>
+> 
+> 🔗 LessRad LWNR
+> LessRad全球地表长波净辐射数据集（5km，hourly，1982-2022）
+> 
+> [https://doi.org/10.11888/Terre.tpdc.302406](#)
+>
+> 
+> 🔗 LessRad LWUR
+> LessRad全球地表长波上行辐射数据集（5km，hourly，1982-2022）
+> 
+> [https://doi.org/10.11888/Terre.tpdc.302277](#)
+>
+> 
+> 🔗 LessRad LWDR
+> LessRad全球地表长波下行辐射数据集（5km，hourly，1982-2001）
+> 
+> [https://doi.org/10.11888/Terre.tpdc.302279](#)
+>
+> 
+> 🔗 LessRad LWDR
+> LessRad全球地表长波下行辐射数据集（5km，hourly，2002-2022）
+> 
+> [https://doi.org/10.11888/Terre.tpdc.300867](#)
 
 若需提前访问样例数据，可联系作者：  
 📧 [xianyy5@mail2.sysu.edu.cn](mailto:xianyy5@mail2.sysu.edu.cn)
@@ -31,7 +64,6 @@ LessRad系列数据集目前在国家青藏高原科学数据中心公开共享�
 ## 📖 引用格式（Citation）
 
 如您在研究中使用 LessRad 数据，请引用如下文献：
-
 > **Xian, Y.**, Wang, T., Du, Y., Letu, H., & Leng, W. (2025).  
 > *LessRad: A topography-corrected shortwave radiation dataset for mountainous regions (2015–2025).*  
 > Sun Yat-sen University. [https://yuyangxian.github.io/LessRad](https://yuyangxian.github.io/LessRad)
