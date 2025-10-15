@@ -23,7 +23,7 @@ repository               : "YuyangXian/YuyangXian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_photo.png"
   name             : "冼宇阳 (Yuyang Xian)"
   pronouns         : # example: "she/her"  
   bio              : "中山大学 (Sun Yat-sen University)"
