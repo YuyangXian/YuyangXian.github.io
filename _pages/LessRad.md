@@ -17,34 +17,34 @@ author_profile: true
 LessRad系列数据集目前在国家青藏高原科学数据中心公开共享。
 
 
-> 🔗 LessRad SWDR(https://doi.org/10.11888/Atmos.tpdc.302937)
+> 🔗 **[LessRad SWDR](https://doi.org/10.11888/Atmos.tpdc.302937)**
 > 青藏高原考虑地形效应的日均短波下行辐射数据集（2016-2018）
 > https://doi.org/10.11888/Atmos.tpdc.302937
 >
 > 
-> 🔗 LessRad OLR
+> 🔗 **[LessRad OLR](https://doi.org/10.11888/Atmos.tpdc.301403)**
 > 用于气候监测的高分辨率（0.05°，每小时）MODIS出射长波辐射数据集
-> [https://doi.org/10.11888/Atmos.tpdc.301403](#)
+> https://doi.org/10.11888/Atmos.tpdc.301403
 >
 > 
-> 🔗 LessRad LWNR
+> 🔗 **[LessRad LWNR](https://doi.org/10.11888/Terre.tpdc.302406)**
 > 全球地表长波净辐射数据集（5km，hourly，1982-2022）
-> [https://doi.org/10.11888/Terre.tpdc.302406](#)
+> https://doi.org/10.11888/Terre.tpdc.302406
 >
 > 
-> 🔗 LessRad LWUR
+> 🔗 **[LessRad LWUR](https://doi.org/10.11888/Terre.tpdc.302277)**
 全球地表长波上行辐射数据集（5km，hourly，1982-2022）
-> [https://doi.org/10.11888/Terre.tpdc.302277](#)
+> https://doi.org/10.11888/Terre.tpdc.302277
 >
 > 
-> 🔗 LessRad LWDR
+> 🔗 **[LessRad LWDR](https://doi.org/10.11888/Terre.tpdc.302279)**
 > 全球地表长波下行辐射数据集（5km，hourly，1982-2001）
- [https://doi.org/10.11888/Terre.tpdc.302279](#)
+> https://doi.org/10.11888/Terre.tpdc.302279
 >
 > 
-> 🔗 LessRad LWDR
+> 🔗 **[LessRad LWDR](https://doi.org/10.11888/Terre.tpdc.300867)**
  全球地表长波下行辐射数据集（5km，hourly，2002-2022）
- [https://doi.org/10.11888/Terre.tpdc.300867](#)
+https://doi.org/10.11888/Terre.tpdc.300867
 
 若需提前访问样例数据，可联系作者：  
 📧 [xianyy5@mail2.sysu.edu.cn](mailto:xianyy5@mail2.sysu.edu.cn)
