@@ -13,7 +13,7 @@ author_profile: true
 ---
 
 ## 📂 数据下载
-🔗 **[LessRad SWDR](https://doi.org/10.11888/Atmos.tpdc.302937)**
+🔗 **[LessRad SWDR_Topo](https://doi.org/10.11888/Atmos.tpdc.302937)**
 
 青藏高原考虑地形效应的日均短波下行辐射数据集（2016-2018）
 https://doi.org/10.11888/Atmos.tpdc.302937
@@ -62,7 +62,8 @@ https://doi.org/10.11888/Atmos.tpdc.300784
 Leng, W., Wang, T., Wang, G., Letu, H., Wang, S., Xian, Y., et al. (2023). All-sky surface and top-of-atmosphere shortwave radiation components estimation : Surface shortwave radiation , PAR , UV radiation , and TOA albedo. Remote Sensing of Environment, 298(August), 113830. https://doi.org/10.1016/j.rse.2023.113830
 
 
-若需提前访问样例数据，可联系：  
+
+若需提前访问其他产品数据或定制化服务，可联系：  
 📧 王天星 [wangtx23@mail.sysu.edu.cn](mailto:wangtx23@mail.sysu.edu.cn)； 
 📧 冼宇阳 [xianyy5@mail2.sysu.edu.cn](mailto:xianyy5@mail2.sysu.edu.cn)
 
