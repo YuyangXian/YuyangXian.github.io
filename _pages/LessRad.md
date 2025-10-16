@@ -48,8 +48,9 @@ https://doi.org/10.11888/Terre.tpdc.302279
 全球地表长波下行辐射数据集（5km，hourly，2002-2022）
 https://doi.org/10.11888/Terre.tpdc.300867
 
-若需提前访问样例数据，可联系作者：  
-📧 [xianyy5@mail2.sysu.edu.cn](mailto:xianyy5@mail2.sysu.edu.cn)
+若需提前访问样例数据，可联系：  
+📧 王天星 [wangtx23@mail.sysu.edu.cn](mailto:wangtx23@mail.sysu.edu.cn)
+📧 冼宇阳 [xianyy5@mail2.sysu.edu.cn](mailto:xianyy5@mail2.sysu.edu.cn)
 
 ---
 
