@@ -58,6 +58,7 @@ https://doi.org/10.11888/Atmos.tpdc.300784
  🔗 **LessRad SWDR (Coming Soon)**
 
 地表与大气层顶短波辐射多分量
+
 Leng, W., Wang, T., Wang, G., Letu, H., Wang, S., Xian, Y., et al. (2023). All-sky surface and top-of-atmosphere shortwave radiation components estimation : Surface shortwave radiation , PAR , UV radiation , and TOA albedo. Remote Sensing of Environment, 298(August), 113830. https://doi.org/10.1016/j.rse.2023.113830
 
 
