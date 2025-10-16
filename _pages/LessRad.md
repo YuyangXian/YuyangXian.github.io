@@ -56,9 +56,14 @@ https://doi.org/10.11888/Terre.tpdc.300867
 ## 📖 相关论文
 
 > Xian, Y., Wang, T.*, Du, Y., Yu, P., & Letu, H. (2025). A strategy to estimate daily shortwave downward radiation in rugged regions from a few satellite observations. GIScience and Remote Sensing, 62(1). https://doi.org/10.1080/15481603.2025.2557700.
+> 
 > Du, Y., Wang, S., Wang, T.*, Zheng, Y., Xian, Y., & Li, D. (2025). A 41-Year Global All-Sky Surface Longwave Radiation Components Dataset at 5 km and hourly Resolution. Scientific Data , 12(1), 1–15. https://doi.org/10.1038/s41597-025-05886-w.
+> 
 > Xian, Y., Wang, T., Du, Y., Letu, H., Qi, J., & Li, D. (2024). A dataset of topographic correction coefficients for shortwave downward radiation over the Pan-Third Pole. Scientific Data, 11(1), 779. https://doi.org/10.1038/s41597-024-03616-2.
-> Li, D., Wang, T.*, Zheng, X., Zhang, P., Zheng, L., Leng, W., et al. (2024). Multi-Dimensional matrix MAPping (MDMAP): A new algorithm framework to derive top-of-atmosphere outgoing longwave radiation from space. Remote Sensing of Environment, 304(July 2023), 114031. https://doi.org/10.1016/j.rse.2024.114031
+> 
+> Li, D., Wang, T.*, Zheng, X., Zhang, P., Zheng, L., Leng, W., et al. (2024). Multi-Dimensional matrix MAPping (MDMAP): A new algorithm framework to derive top-of-atmosphere outgoing longwave radiation from space. Remote Sensing of Environment, 304(July 2023), 114031. https://doi.org/10.1016/j.rse.2024.114031.
+> 
 > Xian, Y., Wang, T.*, Cheng, W., Letu, H., Du, Y., & Leng, W. (2023). A Uniform Model for Correcting Shortwave Downward Radiation Over Rugged Terrain at Various Scales. IEEE Transactions on Geoscience and Remote Sensing, 61, 1–12. https://doi.org/10.1109/TGRS.2023.3278081.
+> 
 > Du, Y., Wang, T.*, Zhou, Y., Li, D., Wang, S., & Xian, Y. (2023). Upscaling of longwave downward radiation from instantaneous to any temporal scale: Algorithms, validation, and comparison. International Journal of Applied Earth Observation and Geoinformation, 117(October 2022), 103196. https://doi.org/10.1016/j.jag.2023.103196.
 > 
